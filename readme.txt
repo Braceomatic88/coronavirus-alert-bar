@@ -1,10 +1,10 @@
 \=== Corona Virus Alert Bar ===\
-Contributors: Ryan Bracey\
-Requires at least: 4.7.0\
-Tested up to: 5.4\
-Requires PHP: 5.4\
-License: GPLv2 or later\
-License URI: https://www.gnu.org/licenses/gpl-2.0.html\
+Contributors: Ryan Bracey
+Requires at least: 4.7.0
+Tested up to: 5.4
+Requires PHP: 5.4
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 \== Description ==\
 
