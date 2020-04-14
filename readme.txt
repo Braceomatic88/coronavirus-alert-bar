@@ -8,10 +8,10 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html\
 
 \== Description ==\
 
-Quickly add an alert bar for COVID-19 information to your website\
+Quickly add an alert bar for COVID-19 information to your website
 
 \== Features ==\
 * Custom Colors to match your site branding\
 * Ability to include corona virus icon\
 * Custom title, message and call to action ( all items are optional and fully conditional)
-* Ability to display banner across your entire site or just the homepage}
+* Ability to display banner across your entire site or just the homepage
